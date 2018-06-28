@@ -13,7 +13,8 @@ public class MyFirstJavaProgram {
 
 	Seiya.setSpeed(100);
 	
-	for (int i = 0; i < 1000; i++) {
+	for (int i = 0; i < 1
+			 i++) {
 		Seiya.move(130); 
 		Seiya.turn(90);
 	}
